@@ -3,4 +3,4 @@ Tensorflow implementation of DCGAN on the MNIST Dataset
 
 # Result
 
-![alt text](https://raw.githubusercontent.com/cbsudux/DCGAN-tensorflow/master/mnist.png)
+![alt text](https://raw.githubusercontent.com/cbsudux/DCGAN-tensorflow/master/result.png)
